@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+
+# practice data and mixed results - only results_P01.csv is the real dataset
+results.csv
+results_TEST_backup.csv
+
+# scratch / template files
+Report_Task2_TEMPLATE.md
